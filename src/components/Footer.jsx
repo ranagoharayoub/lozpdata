@@ -62,7 +62,7 @@ const Footer = () => {
 				</div> */}
 			</div>
 			<div className="copyWriteLine text-center pt-4 pb-4 px-1 text-white">
-				© 2020Lozpdata . All Rights Reserved. Terms Of Use. Privacy Policy.
+				© 2021 Lozpdata . All Rights Reserved. Terms Of Use. Privacy Policy.
 			</div>
 		</>
 	);

@@ -7,6 +7,15 @@
 	font-family: "Poppins", sans-serif;
 }
 
+::-webkit-scrollbar {
+	width: 5px;
+  }
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+	background: 	#2365B1; 
+  }
+
 // VARIABLES START
 $themeColor: #2365b1;
 // VARIABLES END
