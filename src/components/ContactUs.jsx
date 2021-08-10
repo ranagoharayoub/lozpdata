@@ -4,7 +4,7 @@ import attachment from "../assets/attachment.svg";
 import submit from "../assets/submit.svg";
 import qoutes from "../assets/qoutes.svg";
 import placeholder from "../assets/CEO.png";
-import phone from "../assets/phone.svg";
+import cell from "../assets/phone.svg";
 import message from "../assets/message.svg";
 import location from "../assets/location.svg";
 import axios from "axios";
@@ -128,7 +128,7 @@ const ContactUs = ({ uiux }) => {
                   </a>
                 </div>
                 <div className="d-flex align-items-center">
-                  <img src={phone} alt="phone" />
+                  <img src={cell} alt="phone" />
                   <a
                     className="ml-2 h5 mb-0 text-decoration-none"
                     href="877596621"
