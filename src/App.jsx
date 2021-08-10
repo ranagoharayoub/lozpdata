@@ -1,6 +1,6 @@
 import "./Style/style.scss";
 // import "bootstrap/dist/css/bootstrap.min.css";
-import './bootstrap-5.0.2-dist/css/bootstrap.min.css'
+// import './bootstrap-5.0.2-dist/css/bootstrap.min.css'
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 

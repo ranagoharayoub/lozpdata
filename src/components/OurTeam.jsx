@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+/* eslint-disable */
 import web1 from "../assets/web-1.png";
 import web2 from "../assets/web-2.png";
 import web3 from "../assets/web-3.png";

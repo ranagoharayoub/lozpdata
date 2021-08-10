@@ -1,4 +1,5 @@
 import React from "react";
+/* eslint-disable */
 import BlogBody from "../components/BlogBody";
 import BlogBody2 from "../components/BlogBody";
 import Blogbody22 from "../components/Blogbody22";

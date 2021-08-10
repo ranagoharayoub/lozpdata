@@ -3,6 +3,8 @@ import { connect } from "react-redux";
 import { blogFunc } from "../redux/actions";
 import { NavLink } from "react-router-dom";
 
+/* eslint-disable */
+
 const BlogBody22 = ({ bodyCard, blogFunc }) => {
   useEffect(() => {
     blogFunc();

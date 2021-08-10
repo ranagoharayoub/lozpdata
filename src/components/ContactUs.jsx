@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+/* eslint-disable */
 import attachment from "../assets/attachment.svg";
 import submit from "../assets/submit.svg";
 import qoutes from "../assets/qoutes.svg";

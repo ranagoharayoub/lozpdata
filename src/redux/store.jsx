@@ -1,4 +1,5 @@
 import { createStore, applyMiddleware, combineReducers } from "redux";
+/* eslint-disable */
 import logger from "redux-logger";
 import thunk from "redux-thunk";
 import Reducer from "./reducer";
